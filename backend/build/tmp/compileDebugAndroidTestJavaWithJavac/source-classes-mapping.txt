@@ -1,0 +1,2 @@
+myapp/backend/test/BuildConfig.java
+ myapp.backend.test.BuildConfig

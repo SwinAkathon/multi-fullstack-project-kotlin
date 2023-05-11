@@ -1,0 +1,4 @@
+myapp/shared/BuildConfig.java
+ myapp.shared.BuildConfig
+myapp/shared/utils/MyLibrary.java
+ myapp.shared.utils.MyLibrary

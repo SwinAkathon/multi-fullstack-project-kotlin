@@ -1,0 +1,2 @@
+myapp/frontend/BuildConfig.java
+ myapp.frontend.BuildConfig

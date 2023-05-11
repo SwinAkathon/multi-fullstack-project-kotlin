@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+		INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:6:5-15:19
+	android:supportsRtl
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:9:9-41
+	android:exported
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:12:9-32
+	android:roundIcon
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml:13:9-43
+uses-sdk
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+		INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+		ADDED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml
+		INJECTED from /data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/AndroidManifest.xml

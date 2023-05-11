@@ -1,0 +1,10 @@
+#Thu May 11 16:29:34 ICT 2023
+base.2=/data/projects/dev/gradle/multi-fullstack-project-kotlin/frontend/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+path.2=13/classes.dex
+base.1=/data/projects/dev/gradle/multi-fullstack-project-kotlin/frontend/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/data/projects/dev/gradle/multi-fullstack-project-kotlin/frontend/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

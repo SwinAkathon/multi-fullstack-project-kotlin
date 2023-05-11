@@ -1,0 +1,5 @@
+rootProject.name = 'multi-fullstack-project-kotlin'
+
+include 'shared'
+include 'frontend'
+include 'backend'

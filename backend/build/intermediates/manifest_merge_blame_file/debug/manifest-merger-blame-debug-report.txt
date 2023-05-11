@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="myapp.backend"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="39" />
+9-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:6:5-15:19
+12        android:allowBackup="true"
+12-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.6.0] /home/ducmle/.gradle/caches/transforms-3/85f2dba0f81809f00bfb657916729f5e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:exported="true"
+15-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:12:9-32
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:11:9-35
+21        android:theme="@style/Theme.MyApp" >
+21-->/data/projects/dev/gradle/multi-fullstack-project-kotlin/backend/src/main/AndroidManifest.xml:13:9-43
+22    </application>
+23
+24</manifest>

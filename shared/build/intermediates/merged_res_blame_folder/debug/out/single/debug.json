@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/data/projects/dev/gradle/multi-fullstack-project-kotlin/shared/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
